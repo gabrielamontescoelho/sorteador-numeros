@@ -6,6 +6,10 @@ Projeto desenvolvido como parte do com foco em lógica de programação e manipu
 
 O Sorteador de Números permite ao usuário definir um intervalo e a quantidade de números a serem sorteados, garantindo que **não haja repetição**.
 
+ <div align="center">
+<img width="700"  height="627" alt="Captura de tela 2026-01-31 142511" src="https://github.com/user-attachments/assets/49e2d640-f1d1-4775-8f9b-f3f9bb77c10c" />
+</div>
+
 ## 🚀 Funcionalidades:
 
 * Definição de quantidade, número mínimo e máximo;
