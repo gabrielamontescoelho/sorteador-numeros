@@ -1,6 +1,6 @@
 # 🎲 Sorteador de Números
 
-Projeto desenvolvido como parte do com foco em lógica de programação e manipulação do DOM usando **JavaScript **.
+Projeto desenvolvido como parte do com foco em lógica de programação e manipulação do DOM usando **JavaScript**.
 
 ## Sobre o projeto:
 
